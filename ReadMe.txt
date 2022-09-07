@@ -11,9 +11,6 @@ Please place input .txt files (data_train_2a3a.txt, data_test_2a3a.txt, data_2c2
 
 Running instructions:
 
-run the following command to perform Leave one out CV using KNN for 3 features and 2 features
-'python knn_evaluate.py'
-
 run the following command to perform Leave one out CV using Gaussian Naive Bayes for 3 features and 2 features
 'python gaussian_naive_bayes_evaluate.py'
 
